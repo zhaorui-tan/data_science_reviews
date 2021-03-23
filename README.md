@@ -26,5 +26,6 @@ machine_learning @[toc](machine_learning)
 - 机器学习_降维 @[toc](machine_learning/机器学习_降维.md) 待补充完整
 - 机器学习_常见损失函数 @[toc](machine_learning/机器学习_常见损失函数.md)
 - 机器学习_常见机器学习模型的特点 @[toc](machine_learning/机器学习_常见机器学习模型的特点.md)
+- 机器学习_感知机 待补充
 
 
