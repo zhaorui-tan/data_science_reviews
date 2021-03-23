@@ -10,6 +10,21 @@
 
 ## 目录
 
-@[toc](math) math
+math @[toc](math)
+    
+-  数学基础
 
-@[toc](machine_learning) machine_learning
+machine_learning @[toc](machine_learning)
+ 
+- 机器学习_理论 @[toc](machine_learning/机器学习_理论.md)
+- 机器学习_KNN @[toc](machine_learning/机器学习_KNN.md)
+- 机器学习_回归模型 @[toc](machine_learning/机器学习_回归模型.md)
+- 机器学习_分类模型 @[toc](machine_learning/机器学习_分类模型.md)
+- 机器学习_聚类算法 @[toc](machine_learning/机器学习_聚类算法.md)
+- 机器学习_集成学习 @[toc](machine_learning/机器学习_集成学习.md)
+- 机器学习_梯度下降 @[toc](machine_learning/机器学习_梯度下降.md)
+- 机器学习_降维 @[toc](machine_learning/机器学习_降维.md) 待补充完整
+- 机器学习_常见损失函数 @[toc](machine_learning/机器学习_常见损失函数.md)
+- 机器学习_常见机器学习模型的特点 @[toc](machine_learning/机器学习_常见机器学习模型的特点.md)
+
+
