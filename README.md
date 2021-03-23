@@ -11,11 +11,11 @@
 ## 目录
 
 math @[toc](math)
-    
--  数学基础
+
+- 数学基础
 
 machine_learning @[toc](machine_learning)
- 
+
 - 机器学习_理论 @[toc](machine_learning/机器学习_理论.md)
 - 机器学习_KNN @[toc](machine_learning/机器学习_KNN.md)
 - 机器学习_回归模型 @[toc](machine_learning/机器学习_回归模型.md)
@@ -28,4 +28,8 @@ machine_learning @[toc](machine_learning)
 - 机器学习_常见机器学习模型的特点 @[toc](machine_learning/机器学习_常见机器学习模型的特点.md)
 - 机器学习_感知机 待补充
 
+deep_learning @[toc](deep_learning)
 
+- 深度学习_神经网络的收敛@[toc](deep_learning/深度学习_神经网络的收敛.md)
+- 深度学习_常见问题 @[toc](deep_learning/深度学习_常见问题.md)
+- 深度学习_项目实践杂谈@[toc](deep_learning/深度学习_项目实践杂谈.md)
