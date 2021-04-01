@@ -35,6 +35,8 @@
 - 深度学习_MLP @[toc](deep_learning/深度学习_MLP.md)
 - 深度学习_CNN @[toc](deep_learning/深度学习_CNN.md)
 - 深度学习_RNN @[toc](deep_learning/深度学习_RNN.md)
+- 深度学习_LSTM @[toc](deep_learning/深度学习_LSTM.md)
+- 深度学习_GRU @[toc](deep_learning/深度学习_GRU.md)
 - 深度学习_迁移学习 #TODO
 - 自然语言处理_知识蒸馏 #TODO
 - 自然语言处理_知识图谱 #TODO
